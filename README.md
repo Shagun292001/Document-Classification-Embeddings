@@ -25,9 +25,6 @@ Clustering: Using K-Means clustering to group similar documents.
 + **Scikit-learn**: For implementing clustering algorithms and preprocessing techniques.
 + **Gensim**: For Word2Vec embeddings.
 
-## Dataset
-The dataset consists of five documents covering different subjects: Natural Language Processing (NLP), Artificial Intelligence (AI), Machine Learning (ML), Diet, and Sleep Schedule. Each document provides insights into its respective topic, ranging from technological advancements and applications to health and wellness.
-
 ## Results
 ### Text Preprocessing
 The preprocessing steps include tokenization, normalization, stopword removal, and stemming to clean and standardize the text.
